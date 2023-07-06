@@ -1,6 +1,6 @@
 # web_reading-time
 Chrome extension to always display reading time⌛️ of (most) webpages.<br>
-It was created by customizing of tutorial Chrome extension "reading time" created by Google.
+It was created by customizing the tutorial code of the Chrome extension "reading time" created by Google.
 
 # features
 - Open to read data in most URLs. this will depend on its HTML content.<br>
