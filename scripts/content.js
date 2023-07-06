@@ -50,5 +50,5 @@ if (body) {
   badge.style.backgroundColor = 'rgba(5, 205, 0, 0.2)';
 
   // https://developer.mozilla.org/en-US/docs/Web/API/Element/insertAdjacentElemen
-  insertAdjacentElement && (date ?? heading).insertAdjacentElement('afterend', badge);
+  badge && (date ?? heading).insertAdjacentElement('afterend', badge);
 }
