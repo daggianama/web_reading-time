@@ -5,10 +5,10 @@
   "description": "Display the reading time in any web page, based on the average reading speed of an adult (200 words per minute).",
 
   "icons": {
-    "16": "images/icon-16.png",
-    "32": "images/icon-32.png",
-    "48": "images/icon-48.png",
-    "128": "images/icon-128.png"
+    "16": "images/66163_16-32.png",
+    "32": "images/66163_16-32.png",
+    "48": "images/66163.png",
+    "128": "images/66163.png"
   },
   
   "content_scripts": [
