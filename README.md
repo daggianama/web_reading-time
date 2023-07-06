@@ -7,5 +7,8 @@ It was created by customizing of tutorial Chrome extension "reading time" create
 - Changed to search inside the web body and not the article tag as it was originally created.<br>
 - I added green background for a better user experience and relative font size.<br>
 
+# future features
+- Time displayed for each section/div depending on HTML architecture.
+
 # Source code
 https://github.com/GoogleChrome/chrome-extensions-samples
