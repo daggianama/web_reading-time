@@ -1,5 +1,5 @@
 # web_reading-time
-Chrome extension to show reading time⌛️ of webpages text.<br>
+Chrome extension to always display reading time⌛️ of (most) webpages.<br>
 It was created by customizing of tutorial Chrome extension "reading time" created by Google.
 
 # features
